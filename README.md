@@ -1,0 +1,2 @@
+# lessomiApp
+bootstrap training project
